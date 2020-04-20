@@ -7,7 +7,7 @@ import 'package:hacktech_app/splash.dart';
 
 void main() => runApp(MaterialApp(
   initialRoute: '/',
-  routes: {'/': (context) => Splash(),
+  routes: {'/': (context) => Screen(),
     'home': (context) => Home(),
     'search': (context) => Search(),
     'pedido': (context) => Pedido(),
