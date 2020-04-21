@@ -1,6 +1,8 @@
 # hacktech_app
 
-A new Flutter application.
+Deixando o link abaixo para download do apk need
+
+https://www.dropbox.com/s/ci3sdu1yepi4mro/app-release.apk?dl=0
 
 ## Getting Started
 
